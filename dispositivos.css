@@ -34,6 +34,7 @@ h1{
 
 header nav ul {
     color: var(--color-primario);
+    letter-spacing: 1px;
     display: flex;
     justify-content: space-between;
 }
