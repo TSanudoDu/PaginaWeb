@@ -6,7 +6,7 @@ html{
 
 body {
     font-size: 70;
-    max-width: 1080px;
+    max-width: 75%;
     margin: 0 auto;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 20px;
@@ -87,6 +87,6 @@ table caption{
    
 }
 section img{
-    width: 32.93%;
+    width: 32.9%;
     
 }
